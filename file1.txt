@@ -3,5 +3,4 @@ TWO
 THREE
 FOUR
 FIVE
-Six
-Seven
+This is mOhammad Asif khan Pathan
